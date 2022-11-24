@@ -1,3 +1,5 @@
+Fork 
+
 # [Docker Tim🍎 Machine](https://ms-jpq.github.io/docker-time-machine)
 
 Zero Configuration. Time machine for MacOS
@@ -42,9 +44,3 @@ services:
     volumes:
       - ./:/share
 ```
-
-## Very important
-
-Say hi to my dog!
-
-![my dog](https://raw.githubusercontent.com/ms-jpq/docker-time-machine/tim-apple/preview/dog.JPG)
